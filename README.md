@@ -22,3 +22,5 @@ plotly.express
 seaborn
 
 plotly.offline
+
+ * :computer: Graduada del Bootcamp de Data Analyst en TripleTen :muscle:
